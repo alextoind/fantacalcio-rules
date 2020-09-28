@@ -1,4 +1,4 @@
-# Regolamento BarrinoCup [Stagione 2020/2021 v1.0.0]
+# Regolamento BarrinoCup [Stagione 2020/2021 v1.0.1]
 <!-- TODO: intro -->
 Nota: In questo regolamento non sono riportate le regole base di funzionamento di calcio e fantacalcio, che vengono date per ovvie e consolidate.
 
@@ -163,6 +163,10 @@ Questo è vero anche nel caso in cui l'anno precedente fossero rimasti dei credi
 ### Indebitamento ed Illeciti
 Nel caso in cui un presidente commetta un acquisto illecito durante l'asta (si considerà solo il caso colposo e non si prende nemmeno in considerazione quello volontario), se questo non viene rilevato prima della chiamata successiva scatta automaticamente la penalizzazione per la squadra incriminata. Va detto che anche e soprattutto per questo tipo di questioni molto delicate, il buon senso deve fare da padrone e se la notifica arrivasse dopo poche chiamate di scarso interesse per i più (ad esempio durante gli ultimi attaccanti presi ad 1), si può soprassedere a patto di riuscire a ricostruire a ritroso la storia delle chiamate, e aggiudicare in modo appropriato tutte le chiamate fino al punto in cui si era arrivati.
 Infine, se durante questa ricostruzione un presidente non potesse più effettuare una chiamata che aveva compiuto precedentemente (perché ad esempio ha già completato il reparto), gli altri presidenti possono modificare le loro chiamate e l'asta riprende normalmente; altrimenti sono obbligati ad effettuare le medesime chiamate fatte in precedenza.
+
+La penalizzazione per un illecito consiste nell'impossibilità di usare il giocatore che ha fatto sforare il budget per un numero di partite pari a metà campionato (arrotondate per eccesso) e 1 punto di penalizzazione in classifica ogni 2 fantamilioni extra spesi indebitamente (arrotondati per eccesso). Nel caso in cui siano coinvolti più giocatori nello sforamento di bilancio, l'impossibilità di utilizzo vale per tutti compresi i successivi, ma eccetto quelli acquistati ad un solo fantamilione.
+
+Ad esempio: una squadra con 80 fantamilioni rimanenti che acquista il quarto attaccante a 80 fantamilioni, il quinto a 1 ed il sesto a 2, avrà sforato il budget complessivo di 3 fantamilioni e pertanto prenderà una penalizzazione in classifica di 2 punti. Inoltre non potrà usare il quarto e nemmeno il sesto attaccante per metà campionato. Potrà invece utilizzare il quinto attaccante avendolo acquistato al minimo possibile (e non avendo pertanto partecipato ad aste con altri presidenti).
 
 ## Asta di Riparazione
 Come per l'asta iniziale, la sessione di riparazione si svolge a mercato di riparazione di Serie A concluso (anche a patto di perdere alcuni turni di Serie A). Valgono le medesime considerazioni per l'asta iniziale riguardo l'impegno di tutti nel trovare una data che vada bene a tutti o eventuali sostituti per svolgere l'asta se non si trovasse una soluzione in tempi brevi. L'asta di riparazione può anche essere saltata da una o più squadre qualora queste stesse non volessero o potessero partecipare. In questo caso hanno diritto a turno a fare dei cambi tra i giocatori rimasti nella lista degli svincolati dopo l'asta di riparazione.  
