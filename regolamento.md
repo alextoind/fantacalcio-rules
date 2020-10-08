@@ -144,6 +144,11 @@ In caso di rinvio di una o più partite di Serie A, se queste vengono recuperata
 
 Come specificato in seguito nella "Golden Rule", eventuali modifiche a questa regola base sono concesse a patto di essere approvate all'unanimità. Questo vale a maggior ragione per quest'annosa questione che di anno in anno si ripresenta più insidiosa che mai. E per chi ora stesse già storcendo il naso, è possibile che si verifichi un caso in cui vengano rimandate solo 2 partite, ma che tutti si possa essere d'accordo nell'aspettarle. Ad ogni modo basta un voto contrario per seguire le linee base.
 
+#### COVID-19
+Vista l'elevata probabilità di rinvii a causa della pandemia, la regola generale normalmente applicata non viene seguita e si procede attendendo il recupero di tutte le partite (quale che sia il motivo del rinvio).
+Nel caso di partite rinviate (e solo per quelle) non vale il limite dei 3 cambi dalla panchina e si procede per ordine panchina fino ad esaurimento, in modo da evitare potenziali partite in 10 giocatori dovute a infortuni o quant'altro (la panchina a 14 giocatori garantisce una copertura completa in questo senso).
+Da notare che quest'ultima modifica al normale regolamento dovrà essere effettuata a mano dagli amministratori, aggiustando le rose prima del calcolo di ogni giornata con partite rinviate (almeno in caso in cui i 3 cambi non siano bastevoli per tutte le formazioni).
+
 ## Asta Iniziale
 L'asta si svolge, salvo differenti votazioni all'unanimità, a mercato di Serie A concluso (anche a patto di perdere alcuni turni di Serie A). Per trovare una data utile devono essere tenuti in conto gli impegni di tutti i presidenti, ma ognuno deve impegnarsi a venire incontro alle esigenze altrui. Un presidente che fosse impossibilitato può delegare ad una persona di fiducia lo svolgimento di una parte o di tutta la sessione d'asta, a patto che questo non sia già presente al tavolo con un'altra squadra. Se non fosse possibile trovare un sostituto l'asta dev'essere svolta online (con tutti i problemi del caso) o rinviata a nuova data.
 
