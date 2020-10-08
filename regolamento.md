@@ -197,15 +197,17 @@ Come ultima nota, se il giocatore cambiato in questo modo a pari prezzo dovesse 
 Lo svolgimento segue esattamente le stesse regole dell'asta iniziale, con l'eccezione della cessione dei giocatori entro l'inizio dell'asta.
 
 ## Scambi
-Gli scambi di giocatori tra squadre sono aperti durante tutto il campionato (ma non sono possibili durante le sessioni d'asta).
+Gli scambi di giocatori tra squadre sono aperti durante tutto il campionato (eccetto durante le ultime 9 giornate), ma non sono concessi durante le sessioni d'asta.
 
 È possibile scambiare uno o più giocatori in un singolo scambio ed è possibile bilanciare lo scambio con l'aggiunta di crediti da parte di una delle due squadre, se ne ha a disposizione.
 
 Gli unici vincoli alle trattative sono i seguenti:
  - È possibile variare la composizione della propria rosa durante uno scambio a patto di rientrare nei quantitativi definiti precedentemente.
- - Una volta effettuato lo scambio non è possibile ripetere lo stesso scambio inverso dopo una o più giornate. È però possibile effettuare uno scambio inverso modificato come indicato di seguito:
+ - Una volta effettuato lo scambio non è possibile ripetere lo stesso scambio inverso prima che siano passate almeno 9 giornate (in modo da garantire che i giocatori coinvolti possano essere schierati anche contro la squadra che lo ha ceduto in prestito). È però possibile effettuare uno scambio inverso prima del termine delle 9 giornate a patto che vengano aggiunti tanti nuovi giocatori quanti sono quelli già presenti, come indicato di seguito:
    - Scambio X per Y e in seguito di nuovo Y per X --> Vietato
-   - Scambio X per Y e in seguito Y + Z per X + T --> Consentito
+   - Scambio X per Y e in seguito Y + Z per X + W --> Consentito
+   - Scambio X + Y per W + Z e in seguito W + Z + I per X + Y + K --> Vietato
+   - Scambio X + Y per W + Z e in seguito W + Z + I + J per X + Y + K + L --> Consentito
 
 ## "Golden Rule" e Votazioni
 Questo regolamento, come già espresso in alcune parti dello stesso, definisce tutta una serie di regole di gioco, ma si affida all'onestà e al buon senso per tutte le sfumature che non riesce a coprire completamente o per eventuali dimenticanze o refusi.
