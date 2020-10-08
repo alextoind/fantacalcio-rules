@@ -76,7 +76,7 @@ Al momento dell'inserimento della prima formazione del campionato devono essere 
 ## Opzioni di Calcolo
 Come redazione per i voti viene utilizzato il "Voto Statistico Alvin482" (pertanto i voti possono differire da quelli proposti dalla Gazzetta o da altre redazioni). Per quanto riguarda le regole su cartellini gialli e giocatori senza voto viene seguito il gestore del portale online, fantacalcio.it, mentre per le partite riviate ed i conseguenti "6 politici", si rimanda alla sezione specifica.
 
-Nel calcolo del punteggio di ogni singola formazione, la soglia del primo gol è fissata a 66 punti, mentre le reti successive saranno assegnate ogni 5.5 punti. L'unica eccezione a questa regola si ha quando entrambe le squadre si trovano nella stessa fascia gol (ad esempio tra 66 e 71 punti, entrambe ad 1 gol), ma queste siano distaccate da almeno 4.5 punti; in questo caso alla squadra con punteggio maggiore scatta una rete extra e si aggiudica il match. 
+Nel calcolo del punteggio di ogni singola formazione, la soglia del primo gol è fissata a 66 punti, quella del secondo a 72 punti, la terza a 77 e quella del quarto a 81, mentre tutte le reti successive saranno assegnate ogni 3 punti. Non è più previsto l'intorno di 4.5 punti all'interno di una stessa fascia.
 
 ### Bonus/Malus:
  - Gol Segnato: +3
