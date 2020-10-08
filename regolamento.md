@@ -209,6 +209,23 @@ Gli unici vincoli alle trattative sono i seguenti:
    - Scambio X + Y per W + Z e in seguito W + Z + I per X + Y + K --> Vietato
    - Scambio X + Y per W + Z e in seguito W + Z + I + J per X + Y + K + L --> Consentito
 
+## Riconferme (regola valida solo dalla stagione 2021/2022)
+Ogni presidente, prima dell'inizio dell'asta iniziale, può decidere di riconfermare (al costo simbolico di 1 fantamilione) fino ad un massimo di tre giocatori presenti nella propria rosa durante la stagione precedente.
+Questa regola è però soggetta ai seguenti vincoli:
+ - I giocatori devono avere ruoli differenti (non è possibile riconfermare due giocatori che abbiano il solito ruolo nella stagione attuale, ma potrebbero averlo avuto la scorsa stagione).
+ - I giocatori non possono trovarsi nelle prime posizioni in ordine di quotazione attuale (calcolata nel giorno dello svolgimento dell'asta iniziale) per reparto:
+   - Portieri: sono esclusi i Top 10 per quotazione (almeno uno per squadra)
+   - Difensori: sono esclusi i Top 40 per quotazione (almeno quattro per squadra)
+   - Centrocampisti: sono esclusi i Top 40 per quotazione (almeno quattro per squadra)
+   - Attaccanti: sono esclusi i Top 30 per quotazione (almeno tre per squadra)
+
+I giocatori Top esclusi con il vincolo precedente, possono comunque essere riconfermati a patto di pagare una cifra pari a 2.5 volte la quotazione attuale al momento dell'asta (arrotondando per eccesso). Vale comunque il vincolo dei ruoli differenti tra le riconferme e l'operazione va decretata comunque prima dell'inzio dell'asta (con conseguente decurtamento immediato della cifra dal patrimonio della squadra).
+Si noti che in questo caso la cifra è volutamente alta per scoraggiare la riconferma dei Top.
+
+Le riconferme non possono essere modificate durante lo svolgimento dell'asta; in caso di ripensamenti tardivi, soltanto uno scambio successivo alla sessione d'asta potrà consentire di disfarsi di un giocatore precedentemente riconfermato. 
+
+Come ultima nota, l'idea alla base del meccanismo delle rincoferme è quella di premiare un presidente lungimirante che abbia acquistato una giovane promessa (da qui il vincolo sulla quotazione attuale) che stia crescendo, ma che non sia ancora affermata.
+
 ## "Golden Rule" e Votazioni
 Questo regolamento, come già espresso in alcune parti dello stesso, definisce tutta una serie di regole di gioco, ma si affida all'onestà e al buon senso per tutte le sfumature che non riesce a coprire completamente o per eventuali dimenticanze o refusi.
 Pertanto non dev'essere inteso come uno strumento a cui attaccarsi per provare ad avvantaggiarsi in situazioni ambigue o non definite perché fuori dal comune (vedi passata stagione con lo scoppio della pandemia).
