@@ -11,7 +11,7 @@ Una volta che la competizione ha inizio, i partecipanti non possono essere modif
 Nota: benché durante le discussioni la parola sia garantita a tutti i membri di ciascuna squadra, durante le votazioni ogni squadra ha a disposizione un solo voto da spendere a favore o contro la mozione in discussione. Eventuali pareggi e sitauzioni di stallo non danno diritto a squadre con più membri di poter prevalere sulle altre.
 
 ## Quote e Premi
-La quota di partecipazione è di 20€ a squadra, da versare all'asta iniziale prima dell'inizio della competizione. Al termine dell'asta saranno forniti 20 fantamilioni extra a tutte le squadre che abbiano saldato il debito. Questi potranno essere utilizzati da subito come valore aggiunto durante gli scambi (vedere la sezione specifica per i dettagli).
+La quota di partecipazione è di 40€ a squadra, da versare all'asta iniziale prima dell'inizio della competizione. Al termine dell'asta saranno forniti 20 fantamilioni extra a tutte le squadre che abbiano saldato il debito. Questi potranno essere utilizzati da subito come valore aggiunto durante gli scambi (vedere la sezione specifica per i dettagli).
 
 Qualora una squadra non paghi la quota di iscrizione, visti anche ormai gli storici rapporti tra le squadre, è consentita la proroga del pagamento entro l'asta di riparazione. L'accredito dei fantamilioni extra sarà sempre successivo al pagamento.
 
@@ -22,12 +22,14 @@ Il pagamento può essere fatto in contanti durante uno degli incontri ufficiali 
 Non c'è bisogno di aggiungere che l'onestà e il buon senso devono rimanere come sempre le fondamenta su cui si basa questa competizione.
 
 ### Premi
-I premi previsti a fine anno con i 200€ raccolti sono i seguenti:
- - Primo classificato: 120€
- - Secondo classificato: 60€
- - Terzo classificato: 20€ (riprende la quota iniziale)
+I premi previsti a fine anno con i 400€ raccolti sono i seguenti:
+ - Primo classificato: 200€
+ - Secondo classificato: 100€
+ - Terzo classificato: 40€ (riprende la quota iniziale)
 
-Per quanto sarebbe carino istituire una cena di fine anno nella quale vengono consegnati i premi, l'esperienza ci insegna che la consegna può avvenire anche durante l'asta iniziale dell'anno successivo. Qualora ci siano esigenze particolari da parte dei vincitori, è loro diritto accordarsi col tesoriere per ritirare il premio in separata sede dopo la fine della competizione. 
+I 60€ rimanenti sono destinati a premi di carattere più materiale, da decidere di anno in anno, ad esempio coppe e simili. Potranno inoltre essere usati per la più che benvoluta pasticceria durante le sessioni d'asta.
+
+Per quanto sarebbe carino istituire una cena di fine anno nella quale vengono consegnati i premi, l'esperienza ci insegna che la consegna può avvenire anche durante l'asta iniziale dell'anno successivo. Qualora ci siano esigenze particolari da parte dei vincitori, è loro diritto accordarsi col tesoriere per ritirare il premio in separata sede dopo la fine della competizione.
 
 ## Portale Online
 Per semplificare la gestione dei calcoli, ormai da anni viene utilizzato il portale al seguente link: https://leghe.fantacalcio.it/barrinocup.
