@@ -52,17 +52,17 @@ Il SuperAdmin è il creatore della lega nel portale online e a lui spettano ulte
 Inoltre a lui spetta anche l'onere della tesoreria.
 
 ## Rosa e Formazione
-Ogni squadra deve essere formata da:
- - 3 Portieri
- - 8 Difensori
- - 8 Centrocampisti
- - 6 Attaccanti
+Ogni squadra deve essere formata esattamente da 25 giocatori scelti in modo che rispettino i seguenti quantitativi per ruolo:
+ - da 2 a 4 Portieri
+ - da 7 a 9 Difensori
+ - da 7 a 9 Centrocampisti
+ - da 4 a 6 Attaccanti
 
 I ruoli "Classic" sono definiti a questo link: https://www.fantacalcio.it/quotazioni-fantacalcio/fantacalcio.
 Eventuali modifiche possono essere apportate prima dell'inizio dell'asta per alcuni ruoli "dubbi" (ad esempio quelli che la Gazzetta inserisce nella lista dei trequartisti), ma deve essere favorevole alla modifica almeno la maggioranza assoluta delle squadre.
 
 I moduli consentiti per schierare la propria formazione titolare sono i seguenti: 352, 343, 451, 442, 433, 532, 541.
-La panchina invece è libera (non ci sono vincoli di ruolo o numero di giocatori), ma possono scendere in panchina al massimo 12 giocatori.
+La panchina invece è libera (non ci sono vincoli di ruolo o numero di giocatori), ma possono scendere in panchina al massimo 14 giocatori (eventualmente fino al completamento della rosa).
 Nel caso in cui qualcuno dei titolari non prenda voto, si effettuano fino ad un massimo di 3 sostituzioni dalla panchina. In tal caso, l'ordine con cui avvengono i cambi è in base alla disposizione dei giocatori in panchina, a patto che il modulo sia consentito. Il cambio modulo rispetto alla formazione titolare è consentito ed è pertanto prioritario rispetto ad un cambio a parità di ruolo (regola utilizzata nei primi anni della competizione).
 
 La consegna delle formazioni (possibile anche in modalità invisibile) è possibile fino ad 1 minuto prima dell’inizio della prima partita della giornata di serie A in corso.
@@ -158,8 +158,9 @@ Questo è vero anche nel caso in cui l'anno precedente fossero rimasti dei credi
 ### Svolgimento
  - I presidenti (ed eventualmente gli altri membri delle squadre) si dispongono al tavolo delle trattative in ordine di classifica finale della passata competizione. In realtà, per motivi pratici, questa regola può essere saltata e la disposizione può essere anche casuale.
  - I giocatori vengono chiamati a turno dai partecipanti, iniziando dalla squadra campione in carica e procedendo il direzione del secondo classificato. Nel caso in cui l'ordine al tavolo sia casuale (com'è quasi sempre capitato), si procede dalla squadra campione in carica in senso orario.
- - I giocatori vengono chiamati per ordine di reparto (portieri, difensori, centrocampisti, attaccanti) e non è possibile passare al reparto successivo finché tutte le squadre non hanno completato il precedente. Ogni volta che viene cambiato reparto, il giro di chiamate riparte dalla squadra campione in carica, come indicato sopra.
- - A meno che il reparto in corso non sia già completo, non è possibile passare la chiamata alla squadra successiva (saltando quindi il turno).
+ - I giocatori vengono chiamati per ordine di reparto (portieri, difensori, centrocampisti, attaccanti) e non è possibile passare al reparto successivo finché tutte le squadre non hanno dichiarato completo il precedente. Ogni volta che viene cambiato reparto, il giro di chiamate riparte dalla squadra campione in carica, come indicato sopra.
+ - Ogni presidente può scegliere in corso d'asta se fermarsi ad un dato numero di giocatori per ruolo piuttosto che riempiere completamente il reparto (dichiarandolo quindi completo), a patto che riesca poi a completare la rosa dei 25 giocatori totali e che abbia superato il numero minimo di giocatori per quel reparto.
+ - A meno che il reparto in corso non sia già dichiarato completo, non è possibile passare la chiamata alla squadra successiva (saltando quindi il turno).
  - La chiamata di ogni giocatore parte in automatico da 1 fantamilione, a meno che il chiamante non specifichi subito un altro valore più alto. Poi si procede per rilancio in ordine sparso.
  - Non è possibile specificare un valore diverso da un intero positivo, né offrire una somma che provochi l'indebitamento matematico (anche non immediato).
  - Nel caso in cui due presidenti chiamino la stessa cifra nel solito momento si rimanda al buon senso, e a parte in rari casi, uno dei due tende a rilanciare ulteriorimente per evitare ambiguità. Se nessuno dei due volesse rilanciare e fosse oggettivamente difficile stabilire chi dei due abbia effettuato la chiamata per primo, si procede con un metodo a sorte.
@@ -201,7 +202,7 @@ Gli scambi di giocatori tra squadre sono aperti durante tutto il campionato (ma 
 È possibile scambiare uno o più giocatori in un singolo scambio ed è possibile bilanciare lo scambio con l'aggiunta di crediti da parte di una delle due squadre, se ne ha a disposizione.
 
 Gli unici vincoli alle trattative sono i seguenti:
- - Non si può alterare la composizione della propria rosa (non si possono scambiare giocatori in ruoli differenti, né variare il numero di giocatori nella propria rosa).
+ - È possibile variare la composizione della propria rosa durante uno scambio a patto di rientrare nei quantitativi definiti precedentemente.
  - Una volta effettuato lo scambio non è possibile ripetere lo stesso scambio inverso dopo una o più giornate. È però possibile effettuare uno scambio inverso modificato come indicato di seguito:
    - Scambio X per Y e in seguito di nuovo Y per X --> Vietato
    - Scambio X per Y e in seguito Y + Z per X + T --> Consentito
