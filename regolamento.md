@@ -1,23 +1,23 @@
-# Regolamento BarrinoCup [Stagione 2020/2021 v1.0.1]
-<!-- TODO: intro -->
+# Regolamento BarrinoCup [Stagione 2020/2021 v1.1.0]
+
 Nota: In questo regolamento non sono riportate le regole base di funzionamento di calcio e fantacalcio, che vengono date per ovvie e consolidate.
 
-## Partecipenati
+## Partecipanti
 Il numero di partecipanti ammesso alla BarrinoCup è di 10 squadre.
 
-Ogni squadra deve avere necessariamente un presidente e può avere un vicepresidente (o allenatore secondo il taglio che si voglia dare alla gestione della propria squadra), purchè sia nominato prima dell'inizio della competizione. Eventuali altri delegati non verranno ufficialmente riconosciuti per la stagione in corso e saranno pertanto sotto la resposabilità del presidente di ciascuna squadra.
+Ogni squadra deve avere necessariamente un presidente e può avere un vicepresidente (o allenatore secondo il taglio che si voglia dare alla gestione della propria squadra), purchè sia nominato prima dell'inizio della competizione. Eventuali altri delegati non verranno ufficialmente riconosciuti per la stagione in corso e saranno pertanto sotto la responsabilità del presidente di ciascuna squadra.
 Una volta che la competizione ha inizio, i partecipanti non possono essere modificati se non previa accettazione unanime di tutti gli altri presidenti.
 
-Nota: benché durante le discussioni la parola sia garantita a tutti i membri di ciascuna squadra, durante le votazioni ogni squadra ha a disposizione un solo voto da spendere a favore o contro la mozione in discussione. Eventuali pareggi e sitauzioni di stallo non danno diritto a squadre con più membri di poter prevalere sulle altre.
+Nota: benché durante le discussioni la parola sia garantita a tutti i membri di ciascuna squadra, durante le votazioni ogni squadra ha a disposizione un solo voto da spendere a favore o contro la mozione in discussione. Eventuali pareggi e situazioni di stallo non danno diritto a squadre con più membri di poter prevalere sulle altre.
 
 ## Quote e Premi
 La quota di partecipazione è di 40€ a squadra, da versare all'asta iniziale prima dell'inizio della competizione. Al termine dell'asta saranno forniti 20 fantamilioni extra a tutte le squadre che abbiano saldato il debito. Questi potranno essere utilizzati da subito come valore aggiunto durante gli scambi (vedere la sezione specifica per i dettagli).
 
 Qualora una squadra non paghi la quota di iscrizione, visti anche ormai gli storici rapporti tra le squadre, è consentita la proroga del pagamento entro l'asta di riparazione. L'accredito dei fantamilioni extra sarà sempre successivo al pagamento.
 
-Un'eventuale ulteriore ritardo nel pagamento non darà diritto ai crediti extra per l'asta di riparazione, mentre il mancato pagamento a fine competizione prevederà l'espulsione a vita dalla BarrinoCup a meno di non saldare successivamente il debito, e non meno importante, portare un quantitativo di pasticcini sufficiente a placare gli animini di tutti i presidenti e membri presenti.
+Un'eventuale ulteriore ritardo nel pagamento non darà diritto ai crediti extra per l'asta di riparazione, mentre il mancato pagamento a fine competizione prevederà l'espulsione a vita dalla BarrinoCup a meno di non saldare successivamente il debito, e non meno importante, portare un quantitativo di pasticcini sufficiente a placare gli animi di tutti i presidenti e membri presenti.
 
-Il pagamento può essere fatto in contanti durante uno degli incontri ufficiali o tramite PayPal () o IABN () al tesoriere, che si impegna a prendere nota dei paganti e si assume i rischi di eventuali smarrimenti del denaro raccolto. Qualora il pagamento non sia fatto nelle modalità citate, sarà cura della squadra pagante notificare sul gruppo WhatsApp l'avvenuto pagamento per l'accreditamento dei fantamilioni extra. Una mancata notifica sul gruppo non dà diritto ad eventuali rivendicazioni di smarrimento del denaro, così come una mancata conferma dal parte del tesoriere non implica automaticamente l'avvenuto pagamento.
+Il pagamento può essere fatto in contanti durante uno degli incontri ufficiali o tramite PayPal (paypal.me/tondoalessandro) o IBAN (IT90G0347501605CC0010118912) al tesoriere, che si impegna a prendere nota dei paganti e si assume i rischi di eventuali smarrimenti del denaro raccolto. Qualora il pagamento non sia fatto nelle modalità citate, sarà cura della squadra pagante notificare sul gruppo WhatsApp l'avvenuto pagamento per l'accreditamento dei fantamilioni extra. Una mancata notifica sul gruppo non dà diritto ad eventuali rivendicazioni di smarrimento del denaro, così come una mancata conferma da parte del tesoriere non implica automaticamente l'avvenuto pagamento.
 
 Non c'è bisogno di aggiungere che l'onestà e il buon senso devono rimanere come sempre le fondamenta su cui si basa questa competizione.
 
@@ -34,15 +34,15 @@ Per quanto sarebbe carino istituire una cena di fine anno nella quale vengono co
 ## Portale Online
 Per semplificare la gestione dei calcoli, ormai da anni viene utilizzato il portale al seguente link: https://leghe.fantacalcio.it/barrinocup.
 
-Per quanto le regole presenti in questo documento siano di per sé indipendenti dalla piattaforma utilizzata, eventuali cambiamenti vanno discussi anche tenendo conto di questo fattore. L'introduzione di una qualche modifica non supportata dal sistema, che comporti il calcolo manuale da effettuare a seguito di ogni partita, è pertato fortemente sconsigliata. Un'eventuale approvazione di una modifica di questo tipo potrebbe portare all'aggiunta di nuovi amministratori nella piattaforma per gestire questa nuova funzionalità, soprattutto se la maggior parte degli admin già presenti avessero votato contro la modifica.
+Per quanto le regole presenti in questo documento siano di per sé indipendenti dalla piattaforma utilizzata, eventuali cambiamenti vanno discussi anche tenendo conto di questo fattore. L'introduzione di una qualche modifica non supportata dal sistema, che comporti il calcolo manuale da effettuare a seguito di ogni partita, è pertanto fortemente sconsigliata. Un'eventuale approvazione di una modifica di questo tipo potrebbe portare all'aggiunta di nuovi amministratori nella piattaforma per gestire questa nuova funzionalità, soprattutto se la maggior parte degli admin già presenti avessero votato contro la modifica.
 
 Qualunque presidente può essere aggiunto nel gruppo degli amministratori della piattaforma, e in tal caso si impegna a effettuare le operazioni di routine e gli interventi straordinari che si verificano durante la competizione.
-Alcuni dei compiti degli amministratori sono ad esmepio i seguenti:
+Alcuni dei compiti degli amministratori sono ad esempio i seguenti:
  - Effettuare il calcolo della giornata appena conclusa, non appena i voti sono disponibili.
- - Inserire le rose di tutte le squadre durante l'asta inziale o comunque il più presto possibile per consentire a tutti di poter schierare la prima formazione per tempo.
+ - Inserire le rose di tutte le squadre durante l'asta iniziale o comunque il più presto possibile per consentire a tutti di poter schierare la prima formazione per tempo.
  - Inserire manualmente la formazione di una squadra che per qualche motivo non ha potuto farlo dal portale online.
  
-Eventuali ritardi negli interventi degli amministratori devono essere scusati e possono essere ricordati nel gruppo WhatsApp, ma un'eventuale susseguirsi di questi eventi può portare alla nomina di altri amministratori in aggiunta e/o sostituzione di altri che non riescono più a onorare il loro impegno iniziale.
+Eventuali ritardi negli interventi degli amministratori devono essere scusati e possono essere ricordati nel gruppo WhatsApp, ma un eventuale susseguirsi di questi eventi può portare alla nomina di altri amministratori in aggiunta e/o sostituzione di altri che non riescono più a onorare il loro impegno iniziale.
 
 Il SuperAdmin è il creatore della lega nel portale online e a lui spettano ulteriori mansioni (in aggiunta a quelle degli amministratori che lo aiutano), tra cui:
  - La gestione dei partecipanti, nonché le nomine degli altri amministratori.
@@ -65,16 +65,16 @@ I moduli consentiti per schierare la propria formazione titolare sono i seguenti
 La panchina invece è libera (non ci sono vincoli di ruolo o numero di giocatori), ma possono scendere in panchina al massimo 14 giocatori (eventualmente fino al completamento della rosa).
 Nel caso in cui qualcuno dei titolari non prenda voto, si effettuano fino ad un massimo di 3 sostituzioni dalla panchina. In tal caso, l'ordine con cui avvengono i cambi è in base alla disposizione dei giocatori in panchina, a patto che il modulo sia consentito. Il cambio modulo rispetto alla formazione titolare è consentito ed è pertanto prioritario rispetto ad un cambio a parità di ruolo (regola utilizzata nei primi anni della competizione).
 
-La consegna delle formazioni (possibile anche in modalità invisibile) è possibile fino ad 1 minuto prima dell’inizio della prima partita della giornata di serie A in corso.
-Un'eventuale ritardo nell'inserimento comporta il recupero automatico della formazione del turno precedente, senza ulteriori penalità. Questo non accade se la formazione non viene schierata alla prima giornata, nel qual caso la squadrà totalizzerà 0 punti (e quindi 0 gol).
+La consegna delle formazioni (possibile anche in modalità invisibile) è possibile fino ad 1 minuto prima dell'inizio della prima partita della giornata di serie A in corso.
+Un'eventuale ritardo nell'inserimento comporta il recupero automatico della formazione del turno precedente, senza ulteriori penalità. Questo non accade se la formazione non viene schierata alla prima giornata, nel qual caso la squadra totalizzerà 0 punti (e quindi 0 gol).
 
-Se un presidente (e l'eventuale suo aiutante) sono impossibilitati nell'inserimento sul portale online, possono comunicare la formazione sul gruppo WhatsApp. Questa risulta valida se il messaggio arriva prima dell'inizio della prima partita (esattamente come sul portale). Eventuali ritardi non saranno accettati anche nel caso in cui la squadra in questione non abbia giocatori che prendano voto nella prima partita del turno in corso.
+Se un presidente (e l'eventuale suo aiutante) sono impossibilitati nell'inserimento sul portale online, possono comunicare la formazione sul gruppo WhatsApp. Questa risulta valida se il messaggio arriva prima dell'inizio della prima partita (esattamente come sul portale). Eventuali ritardi non saranno accettati anche nel caso in cui la squadra in questione non abbia giocatori che prendono voto nella prima partita del turno in corso.
 Nel caso in cui sia giustificata la motivazione del ritardo, la formazione può essere accettata anche se successiva alla scadenza, purché il diretto avversario sia d'accordo e che nessuno dei giocatori reali della rosa sia già sceso in campo in Serie A.
 
-Al momento dell'inserimento della prima formazione del campionato devono essere dichiarati anche un capitano e un vicecapitano per ogni squadra. Il vicecapitano viene utilizzato al posto del capitano (per la valutazione del bonus capitano) solo quando il primo non scende in campo. Entrambi questi due ruoli aggiuntivi non possono essere modificati per tutto l'anno a meno di vendita o scambio degli stessi giocatori, nel qual caso solo il ruolo scambiato/venduto può essere riassegnato.
+Al momento dell'inserimento della prima formazione del campionato devono essere dichiarati anche un capitano e un vice capitano per ogni squadra. Il vice capitano viene utilizzato al posto del capitano (per la valutazione del bonus capitano) solo quando il primo non scende in campo. Entrambi questi due ruoli aggiuntivi non possono essere modificati per tutto l'anno a meno di vendita o scambio degli stessi giocatori, nel qual caso solo il ruolo scambiato/venduto può essere riassegnato.
 
 ## Opzioni di Calcolo
-Come redazione per i voti viene utilizzato il "Voto Statistico Alvin482" (pertanto i voti possono differire da quelli proposti dalla Gazzetta o da altre redazioni). Per quanto riguarda le regole su cartellini gialli e giocatori senza voto viene seguito il gestore del portale online, fantacalcio.it, mentre per le partite riviate ed i conseguenti "6 politici", si rimanda alla sezione specifica.
+Come redazione per i voti viene utilizzato il "Voto Statistico Alvin482" (pertanto i voti possono differire da quelli proposti dalla Gazzetta o da altre redazioni). Per quanto riguarda le regole su cartellini gialli e giocatori senza voto viene seguito il gestore del portale online, fantacalcio.it, mentre per le partite rinviate ed i conseguenti "6 politici", si rimanda alla sezione specifica.
 
 Nel calcolo del punteggio di ogni singola formazione, la soglia del primo gol è fissata a 66 punti, quella del secondo a 72 punti, la terza a 77 e quella del quarto a 81, mentre tutte le reti successive saranno assegnate ogni 3 punti. Non è più previsto l'intorno di 4.5 punti all'interno di una stessa fascia.
 
@@ -139,7 +139,7 @@ Nel calcolo del punteggio di ogni singola formazione, la soglia del primo gol è
 
 ### Partite Rinviate e "6 Politici"
 In caso di rinvio di una o più partite di Serie A, se queste vengono recuperata entro l'inizio del turno successivo, non si ha nessuna variazione nel calcolo (a parte l'attesa aggiuntiva). Se il recupero avviene successivamente la gestione delle partite riviate è differente a seconda del numero delle stesse:
- - Da 1 a 5 partite riviate: viene assegnato il 6 politico a tutti i giocatori delle squadre che non possono disputare il match. Sono inclusi tutti i giocatori convocabili, quindi anche gli eventuali infortunati, ma non gli squalificati.
+ - Da 1 a 5 partite rinviate: viene assegnato il 6 politico a tutti i giocatori delle squadre che non possono disputare il match. Sono inclusi tutti i giocatori convocabili, quindi anche gli eventuali infortunati, ma non gli squalificati.
  - Oltre le 5 partite rinviate: visto che più di metà delle partite non sono state disputate si attende il recupero delle stesse prima di procedere con il calcolo.
 
 Come specificato in seguito nella "Golden Rule", eventuali modifiche a questa regola base sono concesse a patto di essere approvate all'unanimità. Questo vale a maggior ragione per quest'annosa questione che di anno in anno si ripresenta più insidiosa che mai. E per chi ora stesse già storcendo il naso, è possibile che si verifichi un caso in cui vengano rimandate solo 2 partite, ma che tutti si possa essere d'accordo nell'aspettarle. Ad ogni modo basta un voto contrario per seguire le linee base.
@@ -159,17 +159,17 @@ Questo è vero anche nel caso in cui l'anno precedente fossero rimasti dei credi
  - I presidenti (ed eventualmente gli altri membri delle squadre) si dispongono al tavolo delle trattative in ordine di classifica finale della passata competizione. In realtà, per motivi pratici, questa regola può essere saltata e la disposizione può essere anche casuale.
  - I giocatori vengono chiamati a turno dai partecipanti, iniziando dalla squadra campione in carica e procedendo il direzione del secondo classificato. Nel caso in cui l'ordine al tavolo sia casuale (com'è quasi sempre capitato), si procede dalla squadra campione in carica in senso orario.
  - I giocatori vengono chiamati per ordine di reparto (portieri, difensori, centrocampisti, attaccanti) e non è possibile passare al reparto successivo finché tutte le squadre non hanno dichiarato completo il precedente. Ogni volta che viene cambiato reparto, il giro di chiamate riparte dalla squadra campione in carica, come indicato sopra.
- - Ogni presidente può scegliere in corso d'asta se fermarsi ad un dato numero di giocatori per ruolo piuttosto che riempiere completamente il reparto (dichiarandolo quindi completo), a patto che riesca poi a completare la rosa dei 25 giocatori totali e che abbia superato il numero minimo di giocatori per quel reparto.
+ - Ogni presidente può scegliere in corso d'asta se fermarsi ad un dato numero di giocatori per ruolo piuttosto che riempire completamente il reparto (dichiarandolo quindi completo), a patto che riesca poi a completare la rosa dei 25 giocatori totali e che abbia superato il numero minimo di giocatori per quel reparto.
  - A meno che il reparto in corso non sia già dichiarato completo, non è possibile passare la chiamata alla squadra successiva (saltando quindi il turno).
  - La chiamata di ogni giocatore parte in automatico da 1 fantamilione, a meno che il chiamante non specifichi subito un altro valore più alto. Poi si procede per rilancio in ordine sparso.
  - Non è possibile specificare un valore diverso da un intero positivo, né offrire una somma che provochi l'indebitamento matematico (anche non immediato).
- - Nel caso in cui due presidenti chiamino la stessa cifra nel solito momento si rimanda al buon senso, e a parte in rari casi, uno dei due tende a rilanciare ulteriorimente per evitare ambiguità. Se nessuno dei due volesse rilanciare e fosse oggettivamente difficile stabilire chi dei due abbia effettuato la chiamata per primo, si procede con un metodo a sorte.
+ - Nel caso in cui due presidenti chiamino la stessa cifra nel solito momento si rimanda al buon senso, e a parte in rari casi, uno dei due tende a rilanciare ulteriormente per evitare ambiguità. Se nessuno dei due volesse rilanciare e fosse oggettivamente difficile stabilire chi dei due abbia effettuato la chiamata per primo, si procede con un metodo a sorte.
  - Non esiste un battitore ufficiale, ma a turno, chi non fosse interessato all'asta in corso, può prendere la parola e decretare i fatidici "e 1, e 2, e 3", meglio se facendolo specificando anche la cifra attualmente offerta. Ad ogni modo è sempre concesso al battitore di turno di rientrare in asta e offrire lui stesso una cifra per il giocatore in corso. Una volta che termina la parola "tre", il presidente che ha offerto la cifra più alta se lo aggiudica e lo aggiunge alla propria squadra.
  - Non è proibito decidere di lasciare l'asta per un giocatore e poi tornare nuovamente a offrire per lo stesso prima che l'asta sia terminata.
- - Non sono concessi ripensamenti: né in fase di rilancio, né in fase di chiamata di un giocatore, né durante la sessione d'asta o dopo il suo termine (nemmeno dopo la scoperta di un eventuale infortunio del giocatore appena acquistato). L'unica "eccezione" risiede in un ipotetico rilancio che produca indebidamento matematico: qualora qualsiasi partecipante si accorga di un possibile sforamento durante l'asta di un giocatore o immediatamente al suo termine, deve farlo subito presente a tutti e l'asta riprende dalla chiamata precedente a quella illecita. Nel caso in cui venga rilevata l'infrazione successivamente alla chiamata del giocatore seguente, scatta la penalizzazione.
+ - Non sono concessi ripensamenti: né in fase di rilancio, né in fase di chiamata di un giocatore, né durante la sessione d'asta o dopo il suo termine (nemmeno dopo la scoperta di un eventuale infortunio del giocatore appena acquistato). L'unica "eccezione" risiede in un ipotetico rilancio che produca indebitamento matematico: qualora qualsiasi partecipante si accorga di un possibile sforamento durante l'asta di un giocatore o immediatamente al suo termine, deve farlo subito presente a tutti e l'asta riprende dalla chiamata precedente a quella illecita. Nel caso in cui venga rilevata l'infrazione successivamente alla chiamata del giocatore seguente, scatta la penalizzazione.
 
 ### Indebitamento ed Illeciti
-Nel caso in cui un presidente commetta un acquisto illecito durante l'asta (si considerà solo il caso colposo e non si prende nemmeno in considerazione quello volontario), se questo non viene rilevato prima della chiamata successiva scatta automaticamente la penalizzazione per la squadra incriminata. Va detto che anche e soprattutto per questo tipo di questioni molto delicate, il buon senso deve fare da padrone e se la notifica arrivasse dopo poche chiamate di scarso interesse per i più (ad esempio durante gli ultimi attaccanti presi ad 1), si può soprassedere a patto di riuscire a ricostruire a ritroso la storia delle chiamate, e aggiudicare in modo appropriato tutte le chiamate fino al punto in cui si era arrivati.
+Nel caso in cui un presidente commetta un acquisto illecito durante l'asta (si considera solo il caso colposo e non si prende nemmeno in considerazione quello volontario), se questo non viene rilevato prima della chiamata successiva scatta automaticamente la penalizzazione per la squadra incriminata. Va detto che anche e soprattutto per questo tipo di questioni molto delicate, il buon senso deve fare da padrone e se la notifica arrivasse dopo poche chiamate di scarso interesse per i più (ad esempio durante gli ultimi attaccanti presi ad 1), si può soprassedere a patto di riuscire a ricostruire a ritroso la storia delle chiamate, e aggiudicare in modo appropriato tutte le chiamate fino al punto in cui si era arrivati.
 Infine, se durante questa ricostruzione un presidente non potesse più effettuare una chiamata che aveva compiuto precedentemente (perché ad esempio ha già completato il reparto), gli altri presidenti possono modificare le loro chiamate e l'asta riprende normalmente; altrimenti sono obbligati ad effettuare le medesime chiamate fatte in precedenza.
 
 La penalizzazione per un illecito consiste nell'impossibilità di usare il giocatore che ha fatto sforare il budget per un numero di partite pari a metà campionato (arrotondate per eccesso) e 1 punto di penalizzazione in classifica ogni 2 fantamilioni extra spesi indebitamente (arrotondati per eccesso). Nel caso in cui siano coinvolti più giocatori nello sforamento di bilancio, l'impossibilità di utilizzo vale per tutti compresi i successivi, ma eccetto quelli acquistati ad un solo fantamilione.
@@ -179,10 +179,10 @@ Ad esempio: una squadra con 80 fantamilioni rimanenti che acquista il quarto att
 ## Asta di Riparazione
 Come per l'asta iniziale, la sessione di riparazione si svolge a mercato di riparazione di Serie A concluso (anche a patto di perdere alcuni turni di Serie A). Valgono le medesime considerazioni per l'asta iniziale riguardo l'impegno di tutti nel trovare una data che vada bene a tutti o eventuali sostituti per svolgere l'asta se non si trovasse una soluzione in tempi brevi. L'asta di riparazione può anche essere saltata da una o più squadre qualora queste stesse non volessero o potessero partecipare. In questo caso hanno diritto a turno a fare dei cambi tra i giocatori rimasti nella lista degli svincolati dopo l'asta di riparazione.  
 
-Ogni squadra si presenta all'asta di riparazione con i crediti rimanenti all'asta iniziale + eventuali modifiche dovute agli scambi effettutati + 20 fantamilioni extra nel caso in cui il presidente abbia saldato la quota di partecipazione (vedi Quote e Premi per i dettagli).
+Ogni squadra si presenta all'asta di riparazione con i crediti rimanenti all'asta iniziale + eventuali modifiche dovute agli scambi effettuati + 20 fantamilioni extra nel caso in cui il presidente abbia saldato la quota di partecipazione (vedi Quote e Premi per i dettagli).
 
 ### Cessioni
-Ciasun presidente può vendere un numero arbitrario di giocatori scelti dalla propria rosa, senza vincoli di ruolo, a patto che la cessione avvenga prima dell'inizio dell'asta.
+Ciascun presidente può vendere un numero arbitrario di giocatori scelti dalla propria rosa, senza vincoli di ruolo, a patto che la cessione avvenga prima dell'inizio dell'asta.
 Sarebbe gradito comunicare la lista delle cessioni entro il giorno precedente all'asta di riparazione, almeno per i giocatori di cui si è già certi, ma eventuali aggiustamenti sono comunque consentiti entro l'inizio della sessione di riparazione.
 
 Il prezzo di vendita di un giocatore è pari a:
@@ -210,7 +210,7 @@ Gli unici vincoli alle trattative sono i seguenti:
    - Scambio X + Y per W + Z e in seguito W + Z + I + J per X + Y + K + L --> Consentito
 
 ## Riconferme (regola valida solo dalla stagione 2021/2022)
-Ogni presidente, prima dell'inizio dell'asta iniziale, può decidere di riconfermare (al costo simbolico di 1 fantamilione) fino ad un massimo di tre giocatori presenti nella propria rosa durante la stagione precedente.
+Ogni presidente, prima dell'inizio dell'asta iniziale, può decidere di confermare (al costo simbolico di 1 fantamilione) fino ad un massimo di tre giocatori presenti nella propria rosa durante la stagione precedente.
 Questa regola è però soggetta ai seguenti vincoli:
  - I giocatori devono avere ruoli differenti (non è possibile riconfermare due giocatori che abbiano il solito ruolo nella stagione attuale, ma potrebbero averlo avuto la scorsa stagione).
  - I giocatori non possono trovarsi nelle prime posizioni in ordine di quotazione attuale (calcolata nel giorno dello svolgimento dell'asta iniziale) per reparto:
@@ -219,18 +219,18 @@ Questa regola è però soggetta ai seguenti vincoli:
    - Centrocampisti: sono esclusi i Top 40 per quotazione (almeno quattro per squadra)
    - Attaccanti: sono esclusi i Top 30 per quotazione (almeno tre per squadra)
 
-I giocatori Top esclusi con il vincolo precedente, possono comunque essere riconfermati a patto di pagare una cifra pari a 2.5 volte la quotazione attuale al momento dell'asta (arrotondando per eccesso). Vale comunque il vincolo dei ruoli differenti tra le riconferme e l'operazione va decretata comunque prima dell'inzio dell'asta (con conseguente decurtamento immediato della cifra dal patrimonio della squadra).
+I giocatori Top esclusi con il vincolo precedente, possono comunque essere riconfermati a patto di pagare una cifra pari a 2.5 volte la quotazione attuale al momento dell'asta (arrotondando per eccesso). Vale comunque il vincolo dei ruoli differenti tra le riconferme e l'operazione va decretata comunque prima dell'inizio dell'asta (con conseguente decurtamento immediato della cifra dal patrimonio della squadra).
 Si noti che in questo caso la cifra è volutamente alta per scoraggiare la riconferma dei Top.
 
 Le riconferme non possono essere modificate durante lo svolgimento dell'asta; in caso di ripensamenti tardivi, soltanto uno scambio successivo alla sessione d'asta potrà consentire di disfarsi di un giocatore precedentemente riconfermato. 
 
-Come ultima nota, l'idea alla base del meccanismo delle rincoferme è quella di premiare un presidente lungimirante che abbia acquistato una giovane promessa (da qui il vincolo sulla quotazione attuale) che stia crescendo, ma che non sia ancora affermata.
+Come ultima nota, l'idea alla base del meccanismo delle riconferme è quella di premiare un presidente lungimirante che abbia acquistato una giovane promessa (da qui il vincolo sulla quotazione attuale) che stia crescendo, ma che non sia ancora affermata.
 
 ## "Golden Rule" e Votazioni
 Questo regolamento, come già espresso in alcune parti dello stesso, definisce tutta una serie di regole di gioco, ma si affida all'onestà e al buon senso per tutte le sfumature che non riesce a coprire completamente o per eventuali dimenticanze o refusi.
 Pertanto non dev'essere inteso come uno strumento a cui attaccarsi per provare ad avvantaggiarsi in situazioni ambigue o non definite perché fuori dal comune (vedi passata stagione con lo scoppio della pandemia).
 
-Ad ogni modo tutto ciò che è definito nel regolamento viene automaticamente approvato all'unanimità al momento dell'inizio dell'asta iniziale, salvo richiesta esplicita di modifica di alcune parti che dovrà essere votata comunque prima dell'inizio dell'asta. Dal momento dell'inizio dell'asat tutto ciò che è regolamentato deve rimanere inalterato fino alla fine della competizione e può essere votata solo un'eventuale modifica (in anticipo) per gli anni successivi.
+Ad ogni modo tutto ciò che è definito nel regolamento viene automaticamente approvato all'unanimità al momento dell'inizio dell'asta iniziale, salvo richiesta esplicita di modifica di alcune parti che dovrà essere votata comunque prima dell'inizio dell'asta. Dal momento dell'inizio dell'asta tutto ciò che è regolamentato deve rimanere inalterato fino alla fine della competizione e può essere votata solo un'eventuale modifica (in anticipo) per gli anni successivi.
 
 Le eccezioni a questa regola sono le seguenti:
  - Qualora si verifichi una situazione nuova e non documentata, si può definire una nuova regola sul momento, a patto di essere votata da almeno la maggioranza assoluta delle squadre (come già detto ogni squadra conta per uno anche in presenza di più membri della stessa).
