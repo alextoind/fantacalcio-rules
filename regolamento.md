@@ -1,4 +1,4 @@
-# Regolamento BarrinoCup [Stagione 2020/2021 v1.1.1]
+# Regolamento BarrinoCup [Stagione 2020/2021 v1.1.2]
 
 Nota: In questo regolamento non sono riportate le regole base di funzionamento di calcio e fantacalcio, che vengono date per ovvie e consolidate.
 
@@ -217,7 +217,7 @@ Gli scambi di giocatori tra squadre sono aperti durante tutto il campionato (ecc
 
 Gli unici vincoli alle trattative sono i seguenti:
  - È possibile variare la composizione della propria rosa durante uno scambio a patto di rientrare nei quantitativi definiti precedentemente.
- - Una volta effettuato lo scambio non è possibile ripetere lo stesso scambio inverso prima che siano passate almeno 9 giornate (in modo da garantire che i giocatori coinvolti possano essere schierati anche contro la squadra che lo ha ceduto in prestito). È però possibile effettuare uno scambio inverso prima del termine delle 9 giornate a patto che vengano aggiunti tanti nuovi giocatori quanti sono quelli già presenti, come indicato di seguito:
+ - Una volta effettuato lo scambio non è possibile ripetere lo stesso scambio inverso prima che siano passate almeno 9 giornate (in modo da garantire che i giocatori coinvolti possano essere schierati anche contro la squadra che lo ha ceduto in prestito). Inoltre, è possibile effettuare uno scambio inverso solo a patto che vengano aggiunti tanti nuovi giocatori quanti sono quelli già presenti, come indicato di seguito:
    - Scambio X per Y e in seguito di nuovo Y per X --> Vietato
    - Scambio X per Y e in seguito Y + Z per X + W --> Consentito
    - Scambio X + Y per W + Z e in seguito W + Z + I per X + Y + K --> Vietato
