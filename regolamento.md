@@ -1,19 +1,25 @@
-# Regolamento BarrinoCup [Stagione 2020/2021 v1.1.0]
+# Regolamento BarrinoCup [Stagione 2020/2021 v1.1.1]
 
 Nota: In questo regolamento non sono riportate le regole base di funzionamento di calcio e fantacalcio, che vengono date per ovvie e consolidate.
 
 ## Partecipanti
 Il numero di partecipanti ammesso alla BarrinoCup è di 10 squadre.
 
-Ogni squadra deve avere necessariamente un presidente e può avere un vicepresidente (o allenatore secondo il taglio che si voglia dare alla gestione della propria squadra), purchè sia nominato prima dell'inizio della competizione. Eventuali altri delegati non verranno ufficialmente riconosciuti per la stagione in corso e saranno pertanto sotto la responsabilità del presidente di ciascuna squadra.
+Ogni squadra deve avere necessariamente un presidente e può avere un vicepresidente (o allenatore secondo il taglio che si voglia dare alla gestione della propria squadra), purché sia nominato prima dell'inizio della competizione. Eventuali altri delegati non verranno ufficialmente riconosciuti per la stagione in corso e saranno pertanto sotto la responsabilità del presidente di ciascuna squadra.
 Una volta che la competizione ha inizio, i partecipanti non possono essere modificati se non previa accettazione unanime di tutti gli altri presidenti.
 
 Nota: benché durante le discussioni la parola sia garantita a tutti i membri di ciascuna squadra, durante le votazioni ogni squadra ha a disposizione un solo voto da spendere a favore o contro la mozione in discussione. Eventuali pareggi e situazioni di stallo non danno diritto a squadre con più membri di poter prevalere sulle altre.
 
 ## Quote e Premi
-La quota di partecipazione è di 40€ a squadra, da versare all'asta iniziale prima dell'inizio della competizione. Al termine dell'asta saranno forniti 20 fantamilioni extra a tutte le squadre che abbiano saldato il debito. Questi potranno essere utilizzati da subito come valore aggiunto durante gli scambi (vedere la sezione specifica per i dettagli).
+La quota di partecipazione iniziale è di 40€ a squadra, da versare all'asta iniziale prima dell'inizio della competizione. Al termine dell'asta saranno forniti 20 fantamilioni extra a tutte le squadre che abbiano saldato il debito. Questi potranno essere utilizzati da subito come valore aggiunto durante gli scambi (vedere la sezione specifica per i dettagli).
 
-Qualora una squadra non paghi la quota di iscrizione, visti anche ormai gli storici rapporti tra le squadre, è consentita la proroga del pagamento entro l'asta di riparazione. L'accredito dei fantamilioni extra sarà sempre successivo al pagamento.
+La quota è da considerarsi come cauzione per la partecipazione al torneo, poiché l'effettivo montepremi in palio scaturisce dalle singole partite disputate tra le squadre.
+
+Ogni giornata vengono aggiunti 10€ al montepremi, che corrispondono a 2€ per ogni partita disputata. In caso di pareggio, i presidenti si spartiranno l'onere di saldare la somma, contribuendo ciascuno con 1€, altrimenti sarà solo la squadra perdente a dover pagare i 2€.
+
+Alla fine dell'anno il montepremi totale sarà composto dalla somma delle singole giornate (ad esempio 350€ per 35 giornate disputate), più eventuali multe addizionali. Sarà pertanto dovere del tesoriere far tornare i conti effettivi con le cauzioni versate e stillare l'elenco dei debitori e creditori. Sarà inoltre sua cura coordinare e distribuire le somme in gioco per colmare le differenze. 
+
+Qualora una squadra non paghi la quota di iscrizione durante la sessione d'asta iniziale, visti anche gli ormai storici rapporti tra le squadre, è consentita la proroga del pagamento entro l'asta di riparazione. L'accredito dei fantamilioni extra sarà sempre successivo al pagamento.
 
 Un'eventuale ulteriore ritardo nel pagamento non darà diritto ai crediti extra per l'asta di riparazione, mentre il mancato pagamento a fine competizione prevederà l'espulsione a vita dalla BarrinoCup a meno di non saldare successivamente il debito, e non meno importante, portare un quantitativo di pasticcini sufficiente a placare gli animi di tutti i presidenti e membri presenti.
 
@@ -21,15 +27,23 @@ Il pagamento può essere fatto in contanti durante uno degli incontri ufficiali 
 
 Non c'è bisogno di aggiungere che l'onestà e il buon senso devono rimanere come sempre le fondamenta su cui si basa questa competizione.
 
+### Multe
+Ogni volta che un presidente non schiera la formazione per una data giornata, dovrà pagare a prescindere dal risultato 1€ extra che si andrà ad aggiungere al montepremi finale. La formazione per la giornata sarà comunque recuperata automaticamente dal sistema e pertanto sarà comunque possibile vincere una partita pur non avendo inserito la formazione. 
+
 ### Premi
-I premi previsti a fine anno con i 400€ raccolti sono i seguenti:
+I premi previsti a fine anno con gli almeno 350€ raccolti sono i seguenti:
  - Primo classificato: 200€
- - Secondo classificato: 100€
+ - Secondo classificato: 80€
  - Terzo classificato: 40€ (riprende la quota iniziale)
 
-I 60€ rimanenti sono destinati a premi di carattere più materiale, da decidere di anno in anno, ad esempio coppe e simili. Potranno inoltre essere usati per la più che benvoluta pasticceria durante le sessioni d'asta.
+I 30€ rimanenti sono destinati a premi di carattere più materiale, da decidere di anno in anno, ad esempio coppe e simili. Potranno inoltre essere usati per la più che benvoluta pasticceria durante le sessioni d'asta.
 
-Per quanto sarebbe carino istituire una cena di fine anno nella quale vengono consegnati i premi, l'esperienza ci insegna che la consegna può avvenire anche durante l'asta iniziale dell'anno successivo. Qualora ci siano esigenze particolari da parte dei vincitori, è loro diritto accordarsi col tesoriere per ritirare il premio in separata sede dopo la fine della competizione.
+### Cena Finale
+A partire dall'anno 2020/2021 è istituita ufficialmente una cena di fine anno nella quale vengono consegnati i premi ai vincitori.
+
+Come per le sessioni d'asta durante l'anno, per trovare una data utile devono essere tenuti in conto gli impegni di tutti i presidenti, ma ognuno deve impegnarsi a venire incontro alle esigenze altrui.
+
+Nel caso in cui un vincitore non possa partecipare alla cena per qualsivoglia motivo, è suo diritto accordarsi col tesoriere per ritirare il premio in separata sede dopo la fine della competizione.
 
 ## Portale Online
 Per semplificare la gestione dei calcoli, ormai da anni viene utilizzato il portale al seguente link: https://leghe.fantacalcio.it/barrinocup.
