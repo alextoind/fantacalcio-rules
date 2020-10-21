@@ -17,7 +17,7 @@ La quota è da considerarsi come cauzione per la partecipazione al torneo, poich
 
 Ogni giornata vengono aggiunti 10€ al montepremi, che corrispondono a 2€ per ogni partita disputata. In caso di pareggio, i presidenti si spartiranno l'onere di saldare la somma, contribuendo ciascuno con 1€, altrimenti sarà solo la squadra perdente a dover pagare i 2€.
 
-Alla fine dell'anno il montepremi totale sarà composto dalla somma delle singole giornate (ad esempio 350€ per 35 giornate disputate), più eventuali multe addizionali. Sarà pertanto dovere del tesoriere far tornare i conti effettivi con le cauzioni versate e stillare l'elenco dei debitori e creditori. Sarà inoltre sua cura coordinare e distribuire le somme in gioco per colmare le differenze. 
+Alla fine dell'anno il montepremi totale sarà composto dalla somma delle singole giornate (ad esempio 350€ per 35 giornate disputate), più eventuali multe addizionali. Sarà pertanto dovere del tesoriere far tornare i conti effettivi con le cauzioni versate e stilare l'elenco dei debitori e creditori. Sarà inoltre sua cura coordinare e distribuire le somme in gioco per colmare le differenze. 
 
 Qualora una squadra non paghi la quota di iscrizione durante la sessione d'asta iniziale, visti anche gli ormai storici rapporti tra le squadre, è consentita la proroga del pagamento entro l'asta di riparazione. L'accredito dei fantamilioni extra sarà sempre successivo al pagamento.
 
@@ -152,7 +152,7 @@ Nel calcolo del punteggio di ogni singola formazione, la soglia del primo gol è
    ```
 
 ### Partite Rinviate e "6 Politici"
-In caso di rinvio di una o più partite di Serie A, se queste vengono recuperata entro l'inizio del turno successivo, non si ha nessuna variazione nel calcolo (a parte l'attesa aggiuntiva). Se il recupero avviene successivamente la gestione delle partite riviate è differente a seconda del numero delle stesse:
+In caso di rinvio di una o più partite di Serie A, se queste vengono recuperata entro l'inizio del turno successivo, non si ha nessuna variazione nel calcolo (a parte l'attesa aggiuntiva). Se il recupero avviene successivamente la gestione delle partite rinviate è differente a seconda del numero delle stesse:
  - Da 1 a 5 partite rinviate: viene assegnato il 6 politico a tutti i giocatori delle squadre che non possono disputare il match. Sono inclusi tutti i giocatori convocabili, quindi anche gli eventuali infortunati, ma non gli squalificati.
  - Oltre le 5 partite rinviate: visto che più di metà delle partite non sono state disputate si attende il recupero delle stesse prima di procedere con il calcolo.
 
